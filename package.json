@@ -1,0 +1,16 @@
+{
+  "name": "bitmex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch_data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "json2csv": "^5.0.6"
+  }
+}
